@@ -1,6 +1,4 @@
 # MX GetID3
-![MX GetID3](resources/img/mx-getid3.png)
-![MX GetID3](resources/img/mx-getid3-demo.png)
 
 **MX GetID3** is a PHP script that extracts useful information from MP3s & other multimedia file formats for  ExpressionEngine
 

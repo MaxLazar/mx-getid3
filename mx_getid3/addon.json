@@ -1,0 +1,16 @@
+{
+  "name": "MX GetID3",
+  "shortname": "mx_getid3",
+  "version": "2.5.0",
+  "foundation_version": "4.5.2",
+  "description": "getID3() extracts useful information from MP3s & other multimedia file formats.",
+  "license": "MaxLazar",
+  "namespace": "MX\\Getid3",
+  "require": {
+    "php": ">=5.3.*",
+    "expressionengine/core": ">=3.5.17"
+  },
+  "resources": {
+    "themes": false
+  }
+}
